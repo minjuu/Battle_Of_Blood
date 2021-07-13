@@ -24,14 +24,15 @@
   <p style="text-align: center;">
     <img src="https://user-images.githubusercontent.com/57933061/125446549-0cf67e87-7e2d-4e9b-a967-caed12aa2bb3.png" width="400" float = "center">
   </p>
+ - 스테이지1 플레이 화면
+  <p style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/57933061/125447184-656dace8-07ed-4708-ab80-7684b1042028.png" width="400" float = "center">
+  </p>
 - Tab키 클릭 시 카메라 전환 화면
   <p style="text-align: center;">
     <img src="https://user-images.githubusercontent.com/57933061/125446542-d9519f16-d8bb-4526-90c8-814c750b693d.png" width="400" float = "center">
   </p>
-- 스테이지1 플레이 화면
-  <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125447184-656dace8-07ed-4708-ab80-7684b1042028.png" width="400" float = "center">
-  </p>
+
 
 <br>
 
