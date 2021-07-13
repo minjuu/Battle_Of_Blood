@@ -16,6 +16,10 @@
 나머지 게임 캐릭터는 ai이며 각자의 능력에 따라 이동하게 된다. <br>
 조종하는 캐릭터가 죽게되면 탑 뷰로 자동 전환되어 게임의 진행 상황을 알 수 있도록 하였다. <br>
 
+
+### 🖥 게임화면
+
+------
 - 시작 화면 
   <p style="text-align: center;">
     <img src="https://user-images.githubusercontent.com/57933061/125446549-0cf67e87-7e2d-4e9b-a967-caed12aa2bb3.png" width="400" float = "center">
