@@ -20,9 +20,9 @@
 ### 📺 게임화면
 
 ------
-- 대표 이미지
+- 시작 화면
   <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125446549-0cf67e87-7e2d-4e9b-a967-caed12aa2bb3.png" width="400" float = "center">
+    <img src="https://user-images.githubusercontent.com/57933061/125480908-c6b08424-2f3c-4f28-890f-59ff1d7d1511.png" width="400" float = "center">
   </p>
 - 스테이지1 플레이 화면
   <p style="text-align: center;">
