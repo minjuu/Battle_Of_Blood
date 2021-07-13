@@ -74,7 +74,7 @@
 https://github.com/minjuu/Battle_Of_Blood.git
 
 
-### 🌏 실행 영상
+### 🌏 실행 영상 (클릭 시 이동)
 
 ------
 [![battleofblood](http://img.youtube.com/vi/s6Ne16LMJpI/0.jpg)](https://www.youtube.com/watch?v=s6Ne16LMJpI) 
