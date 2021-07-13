@@ -20,7 +20,7 @@
 ### 📺 게임화면
 
 ------
-- 시작 화면 
+- 대표 이미지
   <p style="text-align: center;">
     <img src="https://user-images.githubusercontent.com/57933061/125446549-0cf67e87-7e2d-4e9b-a967-caed12aa2bb3.png" width="400" float = "center">
   </p>
