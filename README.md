@@ -22,7 +22,7 @@
 ------
 - 시작 화면
   <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125480908-c6b08424-2f3c-4f28-890f-59ff1d7d1511.png" width="400" float = "center">
+    <img src="https://user-images.githubusercontent.com/57933061/125481422-ff9459eb-88ca-4155-b091-8db5edfc9997.png" width="400" float = "center">
   </p>
 - 스테이지1 플레이 화면
   <p style="text-align: center;">
