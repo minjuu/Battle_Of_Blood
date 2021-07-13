@@ -1,7 +1,12 @@
 # Battle_Of_Blood
 AI캐릭터와 팀을 나눠 플레이하는 물풍선/총게임
-<img src="https://user-images.githubusercontent.com/57933061/125446549-0cf67e87-7e2d-4e9b-a967-caed12aa2bb3.png" width="400" float = "center">
-<img src="https://user-images.githubusercontent.com/57933061/125446542-d9519f16-d8bb-4526-90c8-814c750b693d.png" width="400" float = "center">
+
+<p style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/57933061/125446549-0cf67e87-7e2d-4e9b-a967-caed12aa2bb3.png" width="400" float = "center">
+</p>
+<p style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/57933061/125446542-d9519f16-d8bb-4526-90c8-814c750b693d.png" width="400" float = "center">
+</p>
 
 ### 📄 게임소개
 
